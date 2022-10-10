@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Marchino5791/Frontend-Mentor-Order-Summary-Card](https://github.com/Marchino5791/Frontend-Mentor-Order-Summary-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marchino5791.github.io/Frontend-Mentor-Order-Summary-Card/](https://marchino5791.github.io/Frontend-Mentor-Order-Summary-Card/)
 
 ## My process
 
