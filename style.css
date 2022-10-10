@@ -31,7 +31,7 @@ main {
   width: 450px;
   height: 675px;
   border-radius: 1.25rem;
-  background-color: var(--Very_pale_blue);
+  background-color: #fff;
   box-shadow: 0.5rem 1rem 2rem var(--Transparent_bright_blue);
 }
 
@@ -58,7 +58,7 @@ h1 {
   justify-content: space-between;
   align-items: center;
   margin: 2rem 3rem;
-  background-color: var(--Transparent_pale_blue);
+  background-color: var(--Very_pale_blue);
   height: 5rem;
   border-radius: 0.625rem;
   padding: 0 1.5rem;
