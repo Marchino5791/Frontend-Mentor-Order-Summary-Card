@@ -5,7 +5,6 @@
 
 :root {
   --Pale_blue: hsl(225, 100%, 94%);
-  --Transparent_pale_blue: hsla(225, 100%, 94%, 0.2);
   --Bright_blue: hsl(245, 75%, 52%);
   --Transparent_bright_blue: hsla(245, 75%, 52%, 0.3);
   --Very_pale_blue: hsl(225, 100%, 98%);
